@@ -21,7 +21,7 @@ body {
 
 .qrcard {
     width: 318.75px;
-    margin: 12% auto 0 auto;
+    margin: 10% auto 0 auto;
     display: flex;
     flex-direction: column;
     align-items: center;
